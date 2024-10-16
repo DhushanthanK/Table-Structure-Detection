@@ -11,7 +11,7 @@ This repository provides a pipeline to detect table structures from images store
 ## Installation
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/Dhushan27/table-structure-detection.git](https://github.com/DhushanthanK/Table-Structure-Detection.git )
+   https://github.com/DhushanthanK/Table-Structure-Detection.git 
    cd Table-Structure-Detection
     ```
 2. Install dependencies:
