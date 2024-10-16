@@ -1,0 +1,24 @@
+0,1,2
+Patient Characteristics,N=333,N=336
+Median age in years (range),"62.0 (33, 84)","61.0 27,86"
+Gender: Male/female,56% / 44%,60% / 40%
+Race: Caucasian/black/other,90% / 6% / 4%,88% / 7% / 5%
+Karnofsky performance status score 70,13%,17%
+Hemoglobin <100 g/L,32%,28%
+Platelet count <75 x 10/L,6%,4%
+Disease Characteristics,,
+Type of myeloma (%):IgG/IgA/Light chain,60% / 23% / 12%,59% /24%/ 13
+Median 2-microglobulin (mg/L),3.7,3.6
+Median albumin (g/L),39.0,39.0
+Median Duration of Multiple Myeloma Since,,
+Diagnosis (Years),3.5,3.1
+Median,2,2
+1 prior line,40%,35%
+ 1 prior line,60%,65%
+All Patients,(N=333),(N=336)
+"Any prior steroids, e.g., dexamethasone, VAD",98%,99%
+"Any prior anthracyclines, e.g., VAD, mitoxantrone",77%,76%
+"Any prior alkylating agents, e.g., MP, VBMCP",91%,92%
+Any prior thalidomide therapy,48%,50%
+Vinca alkaloids,74%,72%
+Prior stem cell transplant/other high-dose therapy,67%,68%
